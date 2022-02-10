@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Magael/monsters-rolodex/static/css/main.a7356d86.css",
+    "main.js": "/Magael/monsters-rolodex/static/js/main.89384e7e.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/Magael/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/Magael/monsters-rolodex/index.html",
+    "main.a7356d86.css.map": "/Magael/monsters-rolodex/static/css/main.a7356d86.css.map",
+    "main.89384e7e.js.map": "/Magael/monsters-rolodex/static/js/main.89384e7e.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/Magael/monsters-rolodex/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7356d86.css",
+    "static/js/main.89384e7e.js"
+  ]
+}
